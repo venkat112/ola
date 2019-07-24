@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding 3rd line from window in window
+=======
+writing from linux machine
+>>>>>>> 3f693b6ba9b067bf2eb47c7ba39572d815457254
